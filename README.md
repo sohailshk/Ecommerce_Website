@@ -40,6 +40,15 @@ Karter is a comprehensive eCommerce web application built using Python Django Fr
 - **Database:** SQLite/PostgreSQL
 - **Payment Integration:** [PayPal]
 
+
+## ScreenShots
+![Screenshot 2024-11-27 220834](https://github.com/user-attachments/assets/3497d0de-239a-45cf-bda5-904953dc5739)
+![Screenshot 2024-11-27 220736](https://github.com/user-attachments/assets/2664cea4-7410-45c8-9b4c-d575f1344c69)
+![Screenshot 2024-11-27 220903](https://github.com/user-attachments/assets/3e611d11-068b-490a-ab66-4292c4a45e1d)
+![Screenshot 2024-11-27 220938](https://github.com/user-attachments/assets/41c34a13-fc2d-4a43-b805-57d2e59827b2)
+![Screenshot 2024-11-27 220938](https://github.com/user-attachments/assets/d3c68126-628d-4315-8456-5f81776f133e)
+![Screenshot 2024-11-27 221058](https://github.com/user-attachments/assets/fe15cb30-a5e4-48d8-99f8-25ba3cb84580)
+![Screenshot 2024-11-27 221123](https://github.com/user-attachments/assets/69418913-2a68-4d75-a251-20d9637efaf1)
 ## 🔧 Installation
 
 ### Prerequisites
